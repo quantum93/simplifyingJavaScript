@@ -1,0 +1,1 @@
+const formatUser = name => `${capital}`
